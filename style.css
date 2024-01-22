@@ -1,0 +1,12 @@
+body {
+    margin: 900;
+    background-color: hsl(0, 0%, 100%);
+    color: white;
+    line-height: 1.5;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+    background-color: pink;
+  }
+body {
+    background-image: url("https://media1.tenor.com/m/tJptzAczBE8AAAAC/cute-pink.gif");
+    background-size: cover;
+}
